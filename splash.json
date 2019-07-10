@@ -1,0 +1,5 @@
+{
+	“title” : “JSON TEST" ,	 //해당 데이터의 제목
+	“link” : “https://i.pinimg.com/564x/1d/a7/73/1da773f57b5180b89af5a759506ac593.jpg” , //나타내고자 하는 이미지 경로
+	“expiredate” : “201912301800” // 노출하고자 하는 만료날짜 시간
+}
