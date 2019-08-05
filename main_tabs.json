@@ -1,0 +1,21 @@
+{
+  "version":"1",
+  "tabs": [
+    {"idx":"0","name":"뉴스","sTabs":[
+      {"sidx":"0","sname":"정치","sdomain":"http://msvr2.chosun.com/test/mc_2.html"},
+      {"sidx":"1","sname":"경제","sdomain":"http://msvr2.chosun.com/test/mc_3.html"},
+      {"sidx":"2","sname":"사회","sdomain":"http://msvr2.chosun.com/test/mc_3.html"},
+      {"sidx":"3","sname":"스포츠","sdomain":"http://msvr2.chosun.com/test/mc_8.html"},
+      {"sidx":"4","sname":"연예","sdomain":"http://msvr2.chosun.com/test/mc_9.html"}
+    ]},
+    {"idx":"1","name":"디지털콘텐츠","sTabs":[
+      {"sidx":"0","sname":"영상","sdomain":"http://msvr2.chosun.com/test/mc_2.html"},
+      {"sidx":"1","sname":"음성","sdomain":"http://msvr2.chosun.com/test/mc_3.html"},
+      {"sidx":"2","sname":"인터랙티브 콘텐츠","sdomain":"http://msvr2.chosun.com/test/mc_4.html"}
+    ]},
+    {"idx":"2","name":"콘텐츠판","sTabs":[
+      {"sidx":"0","sname":"땅집고","sdomain":"http://msvr2.chosun.com/test/mc_2.html"},
+      {"sidx":"1","sname":"잡스앤","sdomain":"http://msvr2.chosun.com/test/mc_3.html"},
+      {"sidx":"2","sname":"군사세계","sdomain":"http://msvr2.chosun.com/test/mc_4.html"}
+    ]}]
+}
