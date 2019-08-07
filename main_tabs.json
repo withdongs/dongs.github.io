@@ -1,7 +1,7 @@
 {
   "version":"2",
   "tabs": [
-    {"idx":"0","name":"뉴스","sTabs":[
+    {"idx":"0","name":"뉴스","code":"news","sTabs":[
       {"sidx":"0","sname":"뉴스홈","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"1","sname":"오피니언","surl":"http://msvr2.chosun.com/test/mc_3.html"},
       {"sidx":"2","sname":"정치","surl":"http://msvr2.chosun.com/test/mc_2.html"},
@@ -19,24 +19,24 @@
       {"sidx":"14","sname":"오늘의 조선일보","surl":"http://msvr2.chosun.com/test/mc_9.html"},
       {"sidx":"15","sname":"특집","surl":"http://msvr2.chosun.com/test/mc_9.html"}
     ]},
-    {"idx":"1","name":"플레이","sTabs":[
+    {"idx":"1","name":"플레이","code":"play","sTabs":[
       {"sidx":"0","sname":"풀레이홈","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"1","sname":"영상","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"2","sname":"팟캐스트","surl":"http://msvr2.chosun.com/test/mc_3.html"},
       {"sidx":"3","sname":"인터랙티브","surl":"http://msvr2.chosun.com/test/mc_4.html"},
       {"sidx":"4","sname":"스페셜","surl":"http://msvr2.chosun.com/test/mc_4.html"}
     ]},
-    {"idx":"2","name":"시리즈","sTabs":[
+    {"idx":"2","name":"시리즈","code":"series","sTabs":[
       {"sidx":"0","sname":"시리즈","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"1","sname":"주제별 보기","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"2","sname":"일자별 보기","surl":"http://msvr2.chosun.com/test/mc_3.html"}
     ]},
-    {"idx":"3","name":"커뮤니티","sTabs":[
+    {"idx":"3","name":"커뮤니티","code":"community","sTabs":[
       {"sidx":"0","sname":"커뮤니티홈","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"1","sname":"토론마당","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"2","sname":"찬반토론","surl":"http://msvr2.chosun.com/test/mc_3.html"}
     ]},
-    {"idx":"4","name":"피드","sTabs":[
+    {"idx":"4","name":"피드","code":"feed","sTabs":[
       {"sidx":"0","sname":"피드","surl":"http://msvr2.chosun.com/test/mc_2.html"}
     ]}]
 }
