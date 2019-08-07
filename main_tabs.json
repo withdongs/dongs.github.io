@@ -1,5 +1,5 @@
 {
-  "version":"1",
+  "version":"2",
   "tabs": [
     {"idx":"0","name":"뉴스","sTabs":[
       {"sidx":"0","sname":"뉴스홈","surl":"http://msvr2.chosun.com/test/mc_2.html"},
