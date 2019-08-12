@@ -38,8 +38,8 @@
     ]},
     {"idx":"4","name":"피드","code":"feed","sTabs":[
       {"sidx":"0","sname":"피드","surl":"http://msvr2.chosun.com/test/mc_2.html"}
-    ]}],
-  {"idx":"5","name":"메롱","code":"melong","sTabs":[
+    ]},
+    {"idx":"5","name":"메롱","code":"melong","sTabs":[
       {"sidx":"0","sname":"피드","surl":"http://msvr2.chosun.com/test/mc_2.html"}
     ]}]
 }
