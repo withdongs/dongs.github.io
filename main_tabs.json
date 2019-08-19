@@ -1,7 +1,7 @@
 {
-  "version":"5",
+  "version":"6",
   "tabs": [
-    {"idx":"0","name":"뉴스","code":"news","sTabs":[
+    {"idx":"0","name":"뉴스","code":"play","sTabs":[
       {"sidx":"0","sname":"뉴스홈","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"1","sname":"오피니언","surl":"http://msvr2.chosun.com/test/mc_3.html"},
       {"sidx":"2","sname":"정치","surl":"http://msvr2.chosun.com/test/mc_2.html"},
@@ -35,6 +35,9 @@
       {"sidx":"0","sname":"커뮤니티홈","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"1","sname":"토론마당","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"2","sname":"찬반토론","surl":"http://msvr2.chosun.com/test/mc_3.html"}
+    ]},
+    {"idx":"4","name":"피드","code":"feed","sTabs":[
+      {"sidx":"0","sname":"피드","surl":"http://msvr2.chosun.com/test/mc_2.html"}
     ]}]
 }
 
