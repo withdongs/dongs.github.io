@@ -1,5 +1,5 @@
 {
-  "version":"3",
+  "version":"4",
   "tabs": [
     {"idx":"0","name":"뉴스","code":"news","sTabs":[
       {"sidx":"0","sname":"뉴스홈","surl":"http://msvr2.chosun.com/test/mc_2.html"},
@@ -36,7 +36,7 @@
       {"sidx":"1","sname":"토론마당","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"2","sname":"찬반토론","surl":"http://msvr2.chosun.com/test/mc_3.html"}
     ]},
-    {"idx":"4","name":"피드","code":"feed","sTabs":[
+    {"idx":"4","name":"테스트","code":"feed","sTabs":[
       {"sidx":"0","sname":"피드","surl":"http://msvr2.chosun.com/test/mc_2.html"}
     ]},
     {"idx":"5","name":"메롱","code":"melong","sTabs":[
