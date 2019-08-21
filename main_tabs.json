@@ -1,5 +1,5 @@
 {
-  "version":"6",
+  "version":"7",
   "tabs": [
     {"idx":"0","name":"뉴스","code":"play","sTabs":[
       {"sidx":"0","sname":"뉴스홈","surl":"http://msvr2.chosun.com/test/mc_2.html"},
@@ -27,7 +27,7 @@
       {"sidx":"4","sname":"스페셜","surl":"http://msvr2.chosun.com/test/mc_4.html"}
     ]},
     {"idx":"2","name":"시리즈","code":"series","sTabs":[
-      {"sidx":"0","sname":"시리즈","surl":"http://msvr2.chosun.com/test/mc_2.html"},
+      {"sidx":"0","sname":"시리즈","surl":"http://bradfrost.com/demo/mobile-first/"},
       {"sidx":"1","sname":"주제별 보기","surl":"http://msvr2.chosun.com/test/mc_2.html"},
       {"sidx":"2","sname":"일자별 보기","surl":"http://msvr2.chosun.com/test/mc_3.html"}
     ]},
